@@ -1,4 +1,4 @@
-# IPython in depth tutorial
+# UCSC astronomy IPython demo
 
 In its current form, this tutorial is meant to be executed with IPython 2.0 or
 newer.  You can find installation instructions for IPython [here](http://ipython.org/install.html).
