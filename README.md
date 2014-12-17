@@ -19,7 +19,7 @@ based.
 
     git clone https://github.com/ipython/ipython-in-depth
 
-You can star the IPython terminal application at the command line with:
+You can start the IPython terminal application at the command line with:
 
     ipython
 
